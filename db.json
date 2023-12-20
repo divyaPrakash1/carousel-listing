@@ -1,0 +1,130 @@
+{
+  "users": [
+    {
+      "name": "Amendra",
+      "email": "amendra@velocis.co.in",
+      "phone": "9454000001",
+      "address": "Lucknow",
+      "status": "Active",
+      "password": "Amendra@123",
+      "id": 1
+    },
+    {
+      "name": "Sunil",
+      "email": "sunil@velocis.co.in",
+      "phone": "9454000002",
+      "address": "Prayagraj",
+      "status": "In Active",
+      "password": "Sunil@123",
+      "id": 2
+    },
+    {
+      "name": "Akash",
+      "email": "akash@velocis.co.in",
+      "phone": "9454000003",
+      "address": "Ghaziabad",
+      "status": "Active",
+      "password": "Akash@123",
+      "id": 3
+    },
+    {
+      "name": "Divya Prakash",
+      "email": "divya@velocis.co.in",
+      "phone": "9454000004",
+      "address": "Sitapur",
+      "status": "Active",
+      "password": "Divya@123",
+      "id": 4
+    },
+    {
+      "name": "Pandey Ji",
+      "email": "pandeyji@velocis.co.in",
+      "phone": "9454000005",
+      "address": "Kanpur",
+      "status": "Active",
+      "password": "PandeyJi@123",
+      "id": 5
+    },
+    {
+      "name": "Paras",
+      "email": "paras@velocis.co.in",
+      "phone": "9454000006",
+      "address": "Haryana",
+      "status": "Active",
+      "password": "Paras@123",
+      "id": 6
+    },
+    {
+      "name": "Kapil",
+      "email": "kapil@velocis.co.in",
+      "phone": "9454000007",
+      "address": "Chandigarh",
+      "status": "Active",
+      "password": "Kapil@123",
+      "id": 7
+    },
+    {
+      "name": "Bhupendar Jogi",
+      "email": "bhupendar@velocis.co.in",
+      "phone": "9454000008",
+      "address": "Ambala",
+      "status": "Active",
+      "password": "Bhupendar@123",
+      "id": 8
+    },
+    {
+      "name": "Himanshu",
+      "email": "himanshu@velocis.co.in",
+      "phone": "9454000009",
+      "address": "Gwalior",
+      "status": "Active",
+      "password": "Himanshu@123",
+      "id": 9
+    },
+    {
+      "name": "Vipin",
+      "email": "vipin@velocis.co.in",
+      "phone": "9454000010",
+      "address": "Shahjahanpur",
+      "status": "Active",
+      "password": "Vipin@123",
+      "id": 11
+    },
+    {
+      "name": "Kapil",
+      "email": "kapil@velocis.co.in",
+      "phone": "9454359066",
+      "address": "Himanchal",
+      "status": "Active",
+      "password": "Kapil@123",
+      "id": 12
+    },
+    {
+      "name": "Braj Kishore",
+      "email": "bk@velocis.co.in",
+      "phone": "9999555500",
+      "address": "Noida",
+      "status": "Active",
+      "password": "Braj@123",
+      "id": 13
+    },
+    {
+      "name": "Sangeeta",
+      "email": "sangeeta.gahlot@velocis.co.in",
+      "phone": "9999555522",
+      "address": "Haryana",
+      "status": "Active",
+      "password": "Sangeeta@123",
+      "id": 14
+    },
+    {
+      "name": "Sunil Singh",
+      "email": "sunil@velocis.co.in",
+      "phone": "9899554422",
+      "address": "Ghaziabad",
+      "status": "In Active",
+      "password": "Sunil@123",
+      "id": 15
+    }
+  ]
+}
